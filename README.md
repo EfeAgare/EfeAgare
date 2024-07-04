@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Efe Agare</h1>
 <h3 align="center">I'm a FullStack Software Engineer with expertise in React-Native and React-Ruby/Ruby on Rails.</h3>
 
-- 💬 Ask me about **Rails, Ruby, React**
+- 💬 Ask me about **Rails, Ruby, React React Native**
 
 - 📫 How to reach me **knowledgeagare157@gmail.com**
 
